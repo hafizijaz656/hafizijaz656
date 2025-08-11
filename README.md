@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hafiz Ijaz Ul Hassan</h1>
-<h3 align="center">A passionate mobile app developer specializing in Flutter & Android</h3>
+<h3 align="center">Flutter Developer || Flutter Web || Getx,Provider || MVVM || Clean Architecture || In-App-Subscriptions || PayFast Payment Gateway || Firebase , Restful APIs && Dart, Java, KotlinAndroid</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizijaz656&label=Profile%20views&color=0e75b6&style=flat" alt="hafizijaz656" /> </p>
 
-<br><br>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hafizijaz656" alt="hafizijaz656" />
-  </a>
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hafizijaz656" alt="hafizijaz656" /></a> </p>
 
 - 🔭 I’m currently working on **TapTaToo**
 
