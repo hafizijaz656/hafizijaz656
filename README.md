@@ -1,25 +1,90 @@
 <h1 align="center">Hi 👋, I'm Hafiz Ijaz Ul Hassan</h1>
 <h3 align="center">Flutter Developer || Flutter Web || Getx,Provider || MVVM || Clean Architecture || In-App-Subscriptions || PayFast Payment Gateway || Firebase , Restful APIs && Dart, Java, KotlinAndroid</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizijaz656&label=Profile%20views&color=0e75b6&style=flat" alt="hafizijaz656" /> </p>
+# Hafiz Ijaz Ul Hassan
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hafizijaz656" alt="hafizijaz656" /></a> </p>
+**Live Preview: 👉🏽 [hafiz-ijaz-ul-hassan.web.app](https://hafiz-ijaz-ul-hassan.web.app/)**
 
-- 🔭 I’m currently working on **TapTaToo**
+✨ Hello there, I'm Hafiz Ijaz Ul Hassan. This is my personal website, which contains publicly available information that can be found on the internet.
 
-- 🌱 I’m currently learning **Nodejs**
+## 🌐 Website
 
-- 📫 How to reach me **hafizijaz656@gmail.com**
+<https://hafiz-ijaz-ul-hassan.web.app/>  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🎉 Release Status
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+Version - v1.1.2  
+Initial release date - April 12, 2023  
+[View all releases](https://github.com/dileepabandara/dileepabandara.dev/releases)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafizijaz656&show_icons=true&locale=en&layout=compact" alt="hafizijaz656" /></p>
+## 🍃 Branches
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafizijaz656&show_icons=true&locale=en" alt="hafizijaz656" /></p>
+Source Code
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafizijaz656&" alt="hafizijaz656" /></p>
+- [main](https://github.com/hafizijaz656/hafiz-ijaz-ul-hassan.git) - Stable and latest version of the source code
+
+## 💙 Built With
+
+- [Flutter](https://flutter.dev)
+  - Flutter 3.7.9 • channel stable
+  - Tools • Dart 2.19.6 • DevTools 2.20.1
+- [GitHub Pages](https://pages.github.com)
+
+## 📌 Prerequisites
+
+- Setup [Flutter](https://flutter.dev) in the development environment.
+- Setup a code editor like [Android Studio](https://developer.android.com/studio) or [Visual Studio Code](https://code.visualstudio.com) in the development environment.
+- Setup [Git](https://git-scm.com) in the development environment.
+- Should be fine with the `flutter doctor` command.
+- Anything related to the Flutter app development.
+
+## 💡 How to Set Up
+
+- Download or clone the repository.
+- Move the project to the selected directory.
+- Open it with a code editor such as [Android Studio](https://developer.android.com/studio) or [Visual Studio Code](https://code.visualstudio.com).
+- Run `flutter clean` and `pub get` commands.
+- **Do not update or upgrade Gradle and other versions until the app is up and running with built versions.**
+
+## 🚀 How to Run
+
+- Download `web-build` directory from the [web-build](https://github.com/dileepabandara/dileepabandara.dev/tree/web-build) branch.
+- Move the build files to a server such as `localhost`, `GitHub Pages`, or any other `http/https` web server.
+- Set up and run the `index.html` file.
+
+## 🖼️ Icons and Images
+
+- [Icons8](https://icons8.com)
+
+## 💎 Dependencies
+
+- [Flutter](https://flutter.dev)/[Dart](https://dart.dev): Environment SDK: `>=2.19.2 <3.0.0`
+- [Cupertino Icons](https://pub.dev/packages/cupertino_icons): `^1.0.2`
+- [URL Launcher](https://pub.dev/packages/url_launcher): `^6.1.9`
+- [Flutter Native Splash](https://pub.dev/packages/flutter_native_splash): `^2.2.17`
+
+## 💙 Contributing
+
+If you find any issues with this branch or would like to suggest changes, feel free to submit a pull request or open an issue. Please make sure to follow the [Contributing Guidelines](https://github.com/dileepabandara/dileepabandara.dev/blob/main/CONTRIBUTING.md) before your contribution.
+
+## ❤️ Thanks
+
+Thanks to everyone who supported.
+
+## 📜 License
+
+This project is licensed under the MIT License.  
+MIT [©dileepabandara.dev](https://dileepabandara.dev)  
+See the license file for more
+details [LICENSE.md](https://github.com/dileepabandara/dileepabandara.dev/blob/main/LICENSE)
+
+## 👨‍💻 Developed By
+
+Hafiz Ijaz Ul Hassan  
+[©HafizIjazUlHassan](https://hafiz-ijaz-ul-hassan.web.app/)
+
+## 💬 Contact
+
+Send me an email if you need to contact me to discuss anything.  
+Email - <hafizijaz656@gmail.com>
+
