@@ -71,13 +71,6 @@ If you find any issues with this branch or would like to suggest changes, feel f
 
 Thanks to everyone who supported.
 
-## 📜 License
-
-This project is licensed under the MIT License.  
-MIT [©dileepabandara.dev](https://dileepabandara.dev)  
-See the license file for more
-details [LICENSE.md](https://github.com/dileepabandara/dileepabandara.dev/blob/main/LICENSE)
-
 ## 👨‍💻 Developed By
 
 Hafiz Ijaz Ul Hassan  
