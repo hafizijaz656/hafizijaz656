@@ -11,12 +11,6 @@
 
 <https://hafiz-ijaz-ul-hassan.web.app/>  
 
-## 🎉 Release Status
-
-Version - v1.1.2  
-Initial release date - April 12, 2023  
-[View all releases](https://github.com/dileepabandara/dileepabandara.dev/releases)
-
 ## 🍃 Branches
 
 Source Code
@@ -26,8 +20,8 @@ Source Code
 ## 💙 Built With
 
 - [Flutter](https://flutter.dev)
-  - Flutter 3.7.9 • channel stable
-  - Tools • Dart 2.19.6 • DevTools 2.20.1
+  - Flutter 3.27.0 • channel stable
+  - Tools • Dart 3.7.0 • DevTools 2.37.0
 - [GitHub Pages](https://pages.github.com)
 
 ## 📌 Prerequisites
@@ -58,10 +52,10 @@ Source Code
 
 ## 💎 Dependencies
 
-- [Flutter](https://flutter.dev)/[Dart](https://dart.dev): Environment SDK: `>=2.19.2 <3.0.0`
-- [Cupertino Icons](https://pub.dev/packages/cupertino_icons): `^1.0.2`
-- [URL Launcher](https://pub.dev/packages/url_launcher): `^6.1.9`
-- [Flutter Native Splash](https://pub.dev/packages/flutter_native_splash): `^2.2.17`
+- [Flutter](https://flutter.dev)/[Dart](https://dart.dev): Environment SDK: `>=3.5.0 <4.0.0`
+- [Cupertino Icons](https://pub.dev/packages/cupertino_icons): `^1.0.8`
+- [URL Launcher](https://pub.dev/packages/url_launcher): `^6.3.1`
+- [Flutter Native Splash](https://pub.dev/packages/flutter_native_splash): `^2.4.3`
 
 ## 💙 Contributing
 
